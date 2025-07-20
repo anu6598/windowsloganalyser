@@ -1,4 +1,3 @@
-Here’s a professional and clear `README.md` file for your project **“Log Analyzer: From Raw Logs to KPI Dashboards”**, suitable for a GitHub repository:
 
 ---
 
@@ -120,7 +119,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## ✨ Made with purpose by \[Your Name]
+## ✨ Made with purpose by \[Anuradha Ananth]
 
 ```
 
